@@ -12,7 +12,7 @@ Gambar code untuk validasi pada isian form
 ![Gambar 2](Screenshot/ss19.png)
 
 Gambar tampilan di browser
-![Gambar 3](Screenhot/ss20.png)
+![Gambar 3](Screenshot/ss20.png)
 
 ### Praktik Membuat Javascript di HTML
 #### File Lab5_javascript.html
